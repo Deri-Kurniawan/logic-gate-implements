@@ -3,7 +3,7 @@
 /** 
  * Implementasi Gerbang Logika Menggunakan Bahasa Pemrograman PHP
  * 
- * @author Deri Kurniawan\
+ * @author Deri Kurniawan
  * @version 1.0.0
  * 
  *  Github : https://github.com/deri-kurniawan
